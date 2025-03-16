@@ -2,7 +2,7 @@
 
 💡 **Desarrollador web junior** con experiencia en **frontend, backend y análisis de datos**. Especializado en **JavaScript y Python**, desarrollo web con **React.js** y procesamiento de datos con **Pandas/PySpark**. También tengo experiencia con **WordPress y Elementor**, y desarrollo móvil con **Flutter & Dart**.  
 
-📍 **Bogotá, Colombia** • 📧 **diegoforero051@gmail.com** • 🔗 [GitHub](https://github.com/DiegoF1027)  
+
 
 ---
 
