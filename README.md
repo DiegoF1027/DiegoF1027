@@ -4,8 +4,6 @@
 
 
 
----
-
 ## 🚀 **Habilidades & Tech Stack**  
 
 ### **Frontend & CMS**  
