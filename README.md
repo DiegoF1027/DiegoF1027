@@ -16,6 +16,6 @@
 🎓 **Tecnólogo en Análisis y Desarrollo de Software** – SENA *(2022 - 2025)* • 🏆 **Certificaciones:** C++, Photoshop, Microsoft Word, Excel y Office.  
 
 ## 🌐 Redes Sociales  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiegoF1027)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-forero-b50998277/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiegoF1027)  
 
 🚀 *"Aprender, crear y mejorar cada día"*  
