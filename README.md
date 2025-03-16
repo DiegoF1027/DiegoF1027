@@ -30,7 +30,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
 
----
 
 ## 📌 **Experiencia**  
 
@@ -47,7 +46,6 @@
 *(Jun 2023 - Jul 2024)*  
 - Administración de facturas, pagos y cotizaciones con **Excel y Word Office**.  
 
----
 
 ## 🎓 **Educación**  
 
@@ -59,7 +57,6 @@
 - Photoshop  
 - Microsoft Word, Excel y Office  
 
----
 
 ## 🌐 **Redes Sociales**  
 
