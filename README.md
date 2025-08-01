@@ -17,9 +17,11 @@
 
 ### **Backend & Bases de datos**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-8fce00?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 
 ### **Desarrollo móvil**  
@@ -32,6 +34,14 @@
 
 
 ## 📌 **Experiencia**  
+### **Desarrollador backend junior** - *GSE Gestión de Seguridad Electronica*
+*(Jul 2025 - Actualidad)*  
+- Creación de un nuevo microservicio de gestión de logs mediante la comunicación con una base de datos en MongoDB.
+- Uso de Mongoose para la generación de modelos, indices compuestos, conexiones, etc.
+- Uso de Express para la creación de endpoints.
+- Creación de Whitelist para la autenticación de un usuario mediante desencriptación de JWT.
+- Documentación de código y de endpoints con Swagger y JSDoc
+- Generación de pruebas unitarias mediante el uso de Mocha y Chai.
 
 ### **Practicante SENA** – *Compensar*  
 *(Jul 2024 - Ene 2025)*  
